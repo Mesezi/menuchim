@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/menuchim/static/css/main.fe00c9e0.css",
-    "main.js": "/menuchim/static/js/main.6bf91005.js",
+    "main.css": "/menuchim/static/css/main.e63df69b.css",
+    "main.js": "/menuchim/static/js/main.56e6b4c1.js",
     "static/js/787.1ed0c42c.chunk.js": "/menuchim/static/js/787.1ed0c42c.chunk.js",
+    "static/media/eden.png": "/menuchim/static/media/eden.044e29b0c89d9ba116dd.png",
     "static/media/flag.png": "/menuchim/static/media/flag.53f3f692cc90d9f24802.png",
     "static/media/musica.png": "/menuchim/static/media/musica.2287916b9c43625f878e.png",
     "static/media/movie-app.png": "/menuchim/static/media/movie-app.d0bc5ac43b41a7bb0430.png",
     "static/media/crappo.png": "/menuchim/static/media/crappo.a1b919a93fd47afe7cfe.png",
     "static/media/picture.jpg": "/menuchim/static/media/picture.78cee9028680593132c8.jpg",
     "static/media/white-logo.png": "/menuchim/static/media/white-logo.a211ca32a0157aacb6c4.png",
-    "static/media/Ezi-Umeonu Menuchim.pdf": "/menuchim/static/media/Ezi-Umeonu Menuchim.2b504773220328a6e752.pdf",
+    "static/media/e-m.pdf": "/menuchim/static/media/e-m.362cc44256f1951237e5.pdf",
     "static/media/Menuchim avatar.png": "/menuchim/static/media/Menuchim avatar.49fa515336d86a764345.png",
     "index.html": "/menuchim/index.html",
-    "main.fe00c9e0.css.map": "/menuchim/static/css/main.fe00c9e0.css.map",
-    "main.6bf91005.js.map": "/menuchim/static/js/main.6bf91005.js.map",
+    "main.e63df69b.css.map": "/menuchim/static/css/main.e63df69b.css.map",
+    "main.56e6b4c1.js.map": "/menuchim/static/js/main.56e6b4c1.js.map",
     "787.1ed0c42c.chunk.js.map": "/menuchim/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe00c9e0.css",
-    "static/js/main.6bf91005.js"
+    "static/css/main.e63df69b.css",
+    "static/js/main.56e6b4c1.js"
   ]
 }
