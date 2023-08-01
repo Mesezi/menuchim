@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/menuchim/static/css/main.e63df69b.css",
-    "main.js": "/menuchim/static/js/main.e5536658.js",
+    "main.css": "/menuchim/static/css/main.5ff3420e.css",
+    "main.js": "/menuchim/static/js/main.9807eddb.js",
     "static/js/787.1ed0c42c.chunk.js": "/menuchim/static/js/787.1ed0c42c.chunk.js",
     "static/media/eden.png": "/menuchim/static/media/eden.044e29b0c89d9ba116dd.png",
     "static/media/flag.png": "/menuchim/static/media/flag.53f3f692cc90d9f24802.png",
@@ -14,12 +14,12 @@
     "static/media/e-m.pdf": "/menuchim/static/media/e-m.c133bfe86fb9445c3176.pdf",
     "static/media/Menuchim avatar.png": "/menuchim/static/media/Menuchim avatar.49fa515336d86a764345.png",
     "index.html": "/menuchim/index.html",
-    "main.e63df69b.css.map": "/menuchim/static/css/main.e63df69b.css.map",
-    "main.e5536658.js.map": "/menuchim/static/js/main.e5536658.js.map",
+    "main.5ff3420e.css.map": "/menuchim/static/css/main.5ff3420e.css.map",
+    "main.9807eddb.js.map": "/menuchim/static/js/main.9807eddb.js.map",
     "787.1ed0c42c.chunk.js.map": "/menuchim/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e63df69b.css",
-    "static/js/main.e5536658.js"
+    "static/css/main.5ff3420e.css",
+    "static/js/main.9807eddb.js"
   ]
 }
